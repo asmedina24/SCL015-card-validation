@@ -1,0 +1,109 @@
+.boton {
+    padding: 25px;
+    width: 20%;
+    font-size: 20px;
+    background-color:rgb(202, 240, 248);
+    border-radius: 6px;
+    border-color: rgb(141, 153, 174);
+    text-align: center;
+    margin-top: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 40%;    
+}
+
+
+
+#salir  {
+    display: none;
+}
+
+
+
+
+.cvv {
+    width: 15%;
+}
+ 
+.year {
+    color: rgb(141, 153, 174);
+}
+
+.titulo {
+    background-color: rgb(202, 240, 248);
+    font-size: 90%;
+    top: -35px;
+    padding-bottom: 2px;
+    position: relative;
+    padding-top: 2px;
+}
+
+.mes {
+    color: rgb(141, 153, 174);
+}    
+
+.boton:hover {
+    background-color: rgb(141, 153, 174);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+h1 {
+    font-size: 250%;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+
+input {
+    height: 40px;
+    width: 250px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+
+fieldset {
+    background-color:white;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 20px;
+    margin-left: 30% ;
+    margin-right: 30%;
+    display: block;
+    margin-top: 3%;
+}
+
+
+header {          
+    text-align: center;
+    font-size: 25px;
+    margin-top: 2%;
+    display: block;
+}
+
+legend {
+    font-size: 200%;
+    color: rgb(3, 4, 94);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    font-size: 200%;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-display: none;
+    font-family: 'Bebas Neue';
+}
+
+body {
+    background-color: rgb(255, 255, 252);
+    background-image: url(img/tarjetatdc.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
+
+header  {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(141, 153, 174);
+}
