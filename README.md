@@ -24,7 +24,7 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 
 ## 3. Prototipo en Papel. 
 
-![Prototipo Papel] C:\Users\LAB\Desktop\SCL015-card-validation\src\img\Prototipo-papel.jpeg
+C:\Users\LAB\Desktop\SCL015-card-validation\imgreadme\Prototipo-papel.jpeg
 
 ## 4. Objetivos de Aprendizaje.
 
@@ -61,9 +61,9 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 
 ### Git y GitHub
 
-* [ ] Uso de comandos de git (add | commit | pull | status | push)
-* [ ] Manejo de repositorios de GitHub (clone | fork 
+* [x] Uso de comandos de git (add | commit | pull | status | push)
+* [x] Manejo de repositorios de GitHub (clone | fork 
 
 
 ## 7. Prototipo Final
-![Prototipo Final] 
+ 
