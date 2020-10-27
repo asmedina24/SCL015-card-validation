@@ -6,13 +6,13 @@ export const validator = {
 
     let sum = 0;
     for (var i = 0; i < creditCardNumber.length; i++) {
-      var digito = parseInt(creditCardNumber.substr(i, 1));
-      if (i % 2 == 0) {
+      var digito = parseInt(creditCardNumber.substr(i, 1)); //numero ingresado se "parsea" para convertirlo a numero
+      if (i % 2 == 0) {                                     // si el numero ingresado entre 2 es igual a 0    
         //console.log("pos", 1);
         //console.log("val", resultadotarjeta[i]);
-        digito *= 2;
+        digito *= 2;                                          
         //console.log("multiplicar", digito);
-        if (digito > 9) {
+        if (digito > 9) {                                   // si digito en mayo a 9 suma 1 y dividelo entre 10
           digito = 1 + (digito % 10);
           //console.log("mayor10", digito);
         }
@@ -20,7 +20,7 @@ export const validator = {
       sum += digito;
 
     }
-    if (sum % 10 == 0) {
+    if (sum % 10 == 0) {                                  //si la suma de todos los numeros entre 10 da 0 es valida la tarjeta
       retorno = true;
     }
     if (digito === true) {

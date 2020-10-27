@@ -9,24 +9,23 @@
        <header>
         <h1>ClickFast</h1> 
       </header>
-        <div class="titulo">
-        <p>Validación de tarjeta</p>
-        </div>
+          <div class="titulo">
+            <p>Validación de tarjeta</p>
+          </div>
     
    <form action="" id="primerapag">
         <fieldset class="dentro"> 
            <legend>Datos del Cliente</legend>
               
           <div id="sobrescribir">
-           
-              <input type="text" id="nombre" placeholder="Nombre Completo" name="nombre">
+            <input type="text" id="nombre" placeholder="Nombre Completo" name="nombre" required>
               <br>
               <br>
-              <input type="text" id="numerotarjetaa" placeholder="Ingresa Número de Tarjeta" maxlength="16" name="numerotarjeta">
+              <input type="text" id="numerotarjetaa" placeholder="Ingresa Número de Tarjeta" maxlength="16" name="numerotarjeta" required>
               <input type="hidden" id= "numeroescondido">              
               <br>
               <br>
-              <label for="mes" placeholder="Año" id="year" class="year"> Mes</label>
+              <label for="mes" placeholder="Año" id="year" required class="year"> Mes</label>
               <select id="">
                 <option value="Enero">Enero</option>
                 <option value=""> Febrero</option>
@@ -41,7 +40,7 @@
                 <option value=""> Noviembre</option>
                 <option value=""> Diciembre</option>
               </select>
-                <label for="ano" placeholder="Mes" id="mes" class="mes" >Año</label>
+                <label for="ano" placeholder="Mes" id="mes" required class="mes" >Año</label>
                   <select id="">   
                     <option value="">2019</option>
                     <option value="">2020</option>
@@ -54,20 +53,16 @@
                </select>
                 <br>
                 <br>
-                <input type="password" class="cvv" placeholder="CVV" id="cvv" maxlength="3">
+                <input type="password" class="cvv" placeholder="CVV"  required id="cvv" maxlength="3">
                 <br>
-
-
-              </div>  
-
-
-                  <img src="img/tdc.jpg" alt="">
-                 <br>
+          </div>  
+                <img src="img/tdc.jpg" alt="">
+                <br>
                   
        </fieldset>
              <input type="button" class="boton" value="Validar" id="validar">
              <input type="button" class="boton" value="salir" id="salir" onclick=""> 
-  </form>
+    </form>
 
         <script src="index.js" type="module"></script>
   </body>
