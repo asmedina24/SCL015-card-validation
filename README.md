@@ -24,7 +24,7 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 
 ## 3. Prototipo en Papel. 
 
-(https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/Prototipo-papel.jpeg)
+![prototipo papel](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/Prototipo-papel.jpeg?raw=true) 
 
 ## 4. Objetivos de Aprendizaje.
 
