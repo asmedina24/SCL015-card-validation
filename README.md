@@ -19,12 +19,12 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 
 ## 2. Resumen del proyecto
 
- ClickFast se creo pensado en clientes que cuenten con tiendas virtuales que deseen evitar estafas, los cuales tendran la posibilidad de validar tarjetas y poder ejecutar la venta sin inconvenientes, para ello solo se ingresará  los datos de la tarjeta de credito y la aplicacion mostrará si es invalida o valida, para ello se uso colores entre blanco gris y azul, podrán usarlas desde cualquier navegador y tener en cuenta que es plataforma bastante amigable y fácil de usar.
+ ClickFast se creo pensado en clientes que cuenten con tiendas virtuales que deseen evitar estafas, los cuales tendran la posibilidad de validar tarjetas y poder ejecutar la venta sin inconvenientes, para ello solo se ingresará  los datos de la tarjeta de credito y la aplicacion mostrará si es invalida o valida, se usó colores entre blanco gris y azul, podrán usarlas desde cualquier navegador tomando en cuenta que es una plataforma bastante amigable y fácil de usar.
 
 
-## 3. Prototipo en Papel. 
+## 3. Prototipo en Papel y Figma 
 
-![prototipo papel](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/Prototipo-papel.jpeg?raw=true) 
+![prototipo papel](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/Prototipo-papel1.jpeg?raw=true) 
 
 ![prototipo Figma](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/figmaprototipo.jpeg?raw=true)
 
@@ -69,3 +69,4 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 
 ## 7. Prototipo Final
  
+ ![prototipo Final]()
