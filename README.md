@@ -46,9 +46,9 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 ### JavaScript
 
 * [ ] Manipulación de strings.
-* [ ] Uso de condicionales (if-else | switch | operador ternario)
-* [ ] Uso de bucles (for | for..in | for..of | while)
-* [ ] Uso de funciones (parámetros | argumentos | valor de retorno)
+* [x] Uso de condicionales (if-else | switch | operador ternario)
+* [x] Uso de bucles (for | for..in | for..of | while)
+* [x] Uso de funciones (parámetros | argumentos | valor de retorno)
 * [x] Declaración correcta de variables (const & let)
 
 ### Testing
@@ -57,7 +57,7 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 
 ### Estructura del código y guía de estilo
 
-* [ ] Organizar y dividir el código en módulos (Modularización)
+* [x] Organizar y dividir el código en módulos (Modularización)
 * [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica)
 * [x] Uso de linter (ESLINT)
 
@@ -69,5 +69,5 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 
 ## 7. Prototipo Final
  
- ![prototipo Final]()
- ![prototipo papel]()
+ ![prototipo Final](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/protofinal2.jpeg?raw=true)
+ ![prototipo Final](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/protofinal1.jpeg?raw=true)
