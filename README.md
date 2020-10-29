@@ -70,3 +70,4 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
 ## 7. Prototipo Final
  
  ![prototipo Final]()
+ ![prototipo papel]()

@@ -12,7 +12,7 @@ describe('validator', () => {
     });
 
     it('debería retornar "Valida" para "4083952015263"', () => {
-    expect(validator.isValid("4083952015263")).toBe("Valida") // escribe aquí tu test
+    expect(validator.isValid("4083952015263")).toBe("Valida"); // escribe aquí tu test
     });
 
    it('debería retornar "Valida" para "79927398713"', () => {
@@ -20,7 +20,7 @@ describe('validator', () => {
     });
 
     it('debería retornar "Invalida" para "1234567890"', () => {
-    expect(validator.isValid("1234567890")).toBe("Invalida") // escribe aquí tu test
+    expect(validator.isValid("1234567890")).toBe("Invalida"); // escribe aquí tu test
     });
   });
 
