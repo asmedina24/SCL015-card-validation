@@ -5,10 +5,9 @@
 * [1. Preámbulo](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
 * [3. Prototipo en Papel](#3-prototipo-en-papel)
-* [4. Objetivos de Aprendizaje](#4-objetivos-de-aprendizaje)
-* [5. Interfaz del Usuario](#5-interfaz-del-usuario)
-* [6. Feedback del Producto](#6-feedback-del-producto)
-*  [7. Protipo Final](#7-prototipo-final)
+* [4. Prototipo Figma](#4-prototipo-figma)
+* [5. Feedback del Producto](#6-feedback-del-producto)
+* [6. Protipo Final](#7-prototipo-final)
 
 
 ***
@@ -22,52 +21,22 @@ La Aplicación CLICKFAST se creó con el fin de dar una solución efectiva a tie
  ClickFast se creo pensado en clientes que cuenten con tiendas virtuales que deseen evitar estafas, los cuales tendran la posibilidad de validar tarjetas y poder ejecutar la venta sin inconvenientes, para ello solo se ingresará  los datos de la tarjeta de credito y la aplicacion mostrará si es invalida o valida, se usó colores entre blanco gris y azul, podrán usarlas desde cualquier navegador tomando en cuenta que es una plataforma bastante amigable y fácil de usar.
 
 
-## 3. Prototipo en Papel y Figma 
+## 3. Prototipo en Papel 
 
 ![prototipo papel](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/Prototipo-papel1.jpeg?raw=true) 
 
+
+## 4. Prototipo en Figma
 ![prototipo Figma](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/figmaprototipo.jpeg?raw=true)
 
-## 4. Objetivos de Aprendizaje.
+## 5. Feedback del Producto
 
-### HTML y CSS
+Se realizó feedback con compañeras de laboratoria, familiares y posibles usuarios de la plataforma. 
+- Usuarios y Familiares: Que sea más llamativa, colores más vivos.
+- Compañeras: Tener en cuenta lo solicitado, cambiar el prototipo que se planteó al inicio(Colores y letras).
+- Coach: Usar buenas prácticas en el codigo
 
-* [x] Uso de HTML semántico.
-* [x] Uso de selectores de CSS.
-* [x] Construir tu aplicación respetando el diseño realizado (maquetación).
-
-### DOM
-
-* [ ] Uso de selectores del DOM.
-* [ ] Manejo de eventos del DOM.
-* [ ] Manipulación dinámica del DOM.
-(appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
-
-### JavaScript
-
-* [ ] Manipulación de strings.
-* [x] Uso de condicionales (if-else | switch | operador ternario)
-* [x] Uso de bucles (for | for..in | for..of | while)
-* [x] Uso de funciones (parámetros | argumentos | valor de retorno)
-* [x] Declaración correcta de variables (const & let)
-
-### Testing
-
-* [ ] Testeo unitario.
-
-### Estructura del código y guía de estilo
-
-* [x] Organizar y dividir el código en módulos (Modularización)
-* [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica)
-* [x] Uso de linter (ESLINT)
-
-### Git y GitHub
-
-* [x] Uso de comandos de git (add | commit | pull | status | push)
-* [x] Manejo de repositorios de GitHub (clone | fork 
-
-
-## 7. Prototipo Final
+## 6. Prototipo Final
  
  ![prototipo Final](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/protofinal2.jpeg?raw=true)
  ![prototipo Final](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/protofinal1.jpeg?raw=true)

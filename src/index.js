@@ -1,16 +1,15 @@
 import validator from './validator.js';
 
-//console.log(validator);
 
 document.getElementById("validar").onclick= function(){
  
-  let nombre = document.getElementById("nombre").value;
+  let nombre = document.getElementById("nombre").value; //Extraer datos
   let creditCardNumber = document.getElementById("numerotarjetaa").value;
   let tarjetaEnmascarada = creditCardNumber;
   let years= document.getElementById("year").value;
   let mes= document.getElementById("mes").value;
   let cvv= document.getElementById("cvv").value;
-  if (nombre!="" && creditCardNumber!="" && years!="" && mes!="" && cvv!=""){
+  if (nombre!="" && creditCardNumber!="" && years!="" && mes!="" && cvv!=""){ //si los datos no estan vacios ejecuta
   
     if (creditCardNumber.length === 16){
     document.getElementById("salir").style.display="block";
@@ -28,12 +27,7 @@ document.getElementById("validar").onclick= function(){
     alert ("Faltan datos por ingresar")
   }
  
- 
-  //console.log (nombre);
-  //console.log (creditCardNumber);
-  //console.log (tarjetaEnmascarada);
-  //  window.nuevo = nuevo;*/
-}
+ }
 document.getElementById("numerotarjetaa").addEventListener("keydown", e => {
   if (e.which != 9 && e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57) && (e.which < 96 || e.which > 105)) {
       e.preventDefault();
@@ -47,5 +41,5 @@ document.getElementById("numerotarjetaa").addEventListener("keydown", e => {
 });
 
 document.getElementById("salir").onclick= function(){
-    window.location.reload();
+    window.location.reload(); //
 }
