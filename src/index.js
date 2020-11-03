@@ -14,7 +14,7 @@ document.getElementById("validar").onclick= function(){
     if (creditCardNumber.length === 16){
     document.getElementById("salir").style.display="block";
     document.getElementById("validar").style.display= "none";
-    document.getElementById("numeroescondido").innerHTML = validator.isValid(creditCardNumber)
+    //document.getElementById("numeroescondido").innerHTML = validator.isValid(creditCardNumber)
     document.getElementById("sobrescribir").innerHTML = " Hola " + nombre + " Tu Tarjeta " + validator.maskify(tarjetaEnmascarada) + " es " + validator.isValid(creditCardNumber);
     
   }
@@ -41,5 +41,5 @@ document.getElementById("numerotarjetaa").addEventListener("keydown", e => {
 });
 
 document.getElementById("salir").onclick= function(){
-    window.location.reload(); //
+    window.location.reload(); 
 }
