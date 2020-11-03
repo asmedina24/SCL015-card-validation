@@ -8,7 +8,7 @@
 * [4. Prototipo Figma](#4-prototipo-figma)
 * [5. Feedback del Producto](#6-feedback-del-producto)
 * [6. Protipo Final](#7-prototipo-final)
-
+s
 
 ***
 
@@ -42,4 +42,4 @@ Se realizó feedback con compañeras de laboratoria, familiares y posibles usuar
  ![prototipo Final](https://github.com/asmedina24/SCL015-card-validation/blob/master/imgreadme/protofinal1.jpeg?raw=true)
 
 
-(https://asmedina24.github.io/SCL015-card-validation/src/index.html)
+![link](https://asmedina24.github.io/SCL015-card-validation/src/index.html)
